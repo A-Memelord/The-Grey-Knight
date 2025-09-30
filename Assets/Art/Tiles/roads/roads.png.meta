@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 92126c295a25fb643877d4f92744bc6a
+guid: ee495c07ebf34f1429567ad6fac56ac7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8020143640844766479
-    second: spritesheet_0
+      213: -8542954638580681458
+    second: spritesheet_v3_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -141,8 +141,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef454781fc09eda49bf91e5803a93f68
-      internalID: -937827060
+      spriteID: 4d79fb9eb67b03348bb75dfeabbc8429
+      internalID: -1481793499
       vertices: []
       indices: 
       edges: []
@@ -163,8 +163,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c60af40d4515287498c993f6f93f7ec0
-      internalID: -839910510
+      spriteID: ff2b76fd99e102347b41ce04f2b0175e
+      internalID: -1586165762
       vertices: []
       indices: 
       edges: []
@@ -185,8 +185,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: cad1c86b114222f4db612b2bc07d993b
-      internalID: 917799016
+      spriteID: 394ce55e80136224ca66ed1706fb791b
+      internalID: -905243725
       vertices: []
       indices: 
       edges: []
@@ -207,8 +207,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1a2ad5d43e55a6f409827f023efc9b4b
-      internalID: -1433199667
+      spriteID: 1ffce9d0c5d7ea44a832d67c66aabe51
+      internalID: -744919075
       vertices: []
       indices: 
       edges: []
@@ -229,8 +229,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5059ec8761f0c7d48b3a6db6c4aa0bf7
-      internalID: 1264176251
+      spriteID: 5600bbae9d03435468eb87e698234e14
+      internalID: -1231736945
       vertices: []
       indices: 
       edges: []
@@ -239,7 +239,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 538a3c592932b4048a1c7f7561248f10
+    spriteID: 29fa4e05d56284c47b52239bd5cbbb68
     internalID: 0
     vertices: []
     indices: 
@@ -249,11 +249,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      roads_0: -937827060
-      roads_1: -839910510
-      roads_2: 917799016
-      roads_3: -1433199667
-      roads_4: 1264176251
+      roads_0: -1481793499
+      roads_1: -1586165762
+      roads_2: -905243725
+      roads_3: -744919075
+      roads_4: -1231736945
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
