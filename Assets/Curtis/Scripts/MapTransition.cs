@@ -22,6 +22,9 @@ public class MapTransition : MonoBehaviour
 
     void UpdatePlayerPosition(GameObject player)
     {
+        player.GetComponent<PlayerController>().StopAllCoroutines();
+        player.GetComponent<PlayerController>().isMoving = false;
+
         if (direction == Direction.Teleport)
         {
             player.transform.position = teleportTargetPosition.position;
@@ -48,5 +51,6 @@ public class MapTransition : MonoBehaviour
         }
 
         player.transform.position = additivePos;
+
     }
 }

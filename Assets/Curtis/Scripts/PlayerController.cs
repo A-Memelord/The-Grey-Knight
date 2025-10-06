@@ -5,9 +5,13 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
 
+<<<<<<< HEAD
     public Player_Combat player_Combat;
    
     private bool isMoving;
+=======
+    [HideInInspector] public bool isMoving;
+>>>>>>> 823f0df7fa5dda3215528809fea35dfde8715fa4
 
     private Vector2 input;
 
