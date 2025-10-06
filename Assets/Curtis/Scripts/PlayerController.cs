@@ -57,6 +57,7 @@ public class PlayerController : MonoBehaviour
         var collider = Physics2D.OverlapCircle(interactPos, 0.2f, Interactables);
         if (collider != null)
         {
+            collider.GetComponent<Interactable>()?.Interact();
             Debug.Log("There is an NPC here");
         }
     }
@@ -77,7 +78,7 @@ public class PlayerController : MonoBehaviour
 
     private bool IsWalkable(Vector3 targetPos)
     {
-        if (Physics2D.OverlapCircle(targetPos, 0.2f, SolidObjects, Interactables) != null)
+        if (Physics2D.OverlapCircle(targetPos, 0.2f, SolidObjects | Interactables) != null)
         {
             return false;
         }
