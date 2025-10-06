@@ -5,6 +5,8 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
 
+    public Player_Combat player_Combat;
+   
     private bool isMoving;
 
     private Vector2 input;
@@ -44,6 +46,11 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Z))
         {
             Interact();
+        }
+
+        if (Input.GetButtonDown("slash"))
+        {
+            player_Combat.Attack();
         }
     }
 
