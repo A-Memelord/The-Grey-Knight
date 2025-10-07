@@ -5,7 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     public float moveSpeed;
 
-    private bool isMoving;
+    public bool isMoving;
 
     private Vector2 input;
 
