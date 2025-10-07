@@ -12,8 +12,6 @@ public class PlayerController : MonoBehaviour
     public LayerMask SolidObjects;
     public LayerMask Interactables;
 
-    public Player_Combat player_Combat;
-
     private Animator animator;
 
     private void Awake()
@@ -46,10 +44,6 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Z))
         {
             Interact();
-        }
-        if (Input.GetButtonDown("slash"))
-        {
-            player_Combat.Attack();
         }
     }
 
