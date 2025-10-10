@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;
+using Unity.VisualScripting;
 
 public class Bullet : MonoBehaviour
 {
@@ -22,5 +23,11 @@ public class Bullet : MonoBehaviour
     private void FixedUpdate()
     {
         rb.linearVelocity = transform.up * speed;
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        Destroy(gameObject);
     }
 }
