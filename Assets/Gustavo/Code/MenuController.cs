@@ -1,3 +1,4 @@
+using JetBrains.Annotations;
 using UnityEngine;
 
 public class MenuController : MonoBehaviour
@@ -11,9 +12,32 @@ public class MenuController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Input.GetKeyDown(KeyCode.Tab))
+        if (Input.GetKeyDown(KeyCode.Tab))
         {
             menuCanvas.SetActive(!menuCanvas.activeSelf);
         }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            if (!PauseManager.instance.IsPaused)
+            {
+                Pause();
+            }
+            else
+            {
+                Unpause();
+            }
+        }
     }
+    public void Pause()
+    {
+        PauseManager.instance.PauseGame();
+    }
+    
+    public void Unpause()
+    {
+        PauseManager.instance.UnpauseGame();
+
+    }
+    
+
 }
