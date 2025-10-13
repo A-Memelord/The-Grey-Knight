@@ -49,14 +49,14 @@ public class RangedEnemyAI : MonoBehaviour
 }
     private void FixedUpdate()
 {
-    if (target != null)
-    {
-        // Use Vector2.Distance and correct references to positions
-        if (Vector2.Distance(target.position, transform.position) >= distanceToStop)
+        if (target != null)
+        {
+            // Use Vector2.Distance and correct references to positions
+            if (Vector2.Distance(target.position, transform.position) >= distanceToStop)
             rb.linearVelocity = transform.up * speed;
-        else
+            else
             rb.linearVelocity = Vector2.zero;
-    }
+        }
 }
 
     private void RotateTowardsTarget()
@@ -74,17 +74,7 @@ public class RangedEnemyAI : MonoBehaviour
 
     }
 
-private void OnCollisionEnter2D(Collision2D other)
-{
-    if (other.gameObject.CompareTag("Player"))
-    {
-        Destroy(other.gameObject);
-        target = null;
-    }
-    else if (other.gameObject.CompareTag("Bullet"))
-    {
-        Destroy(other.gameObject);
-        Destroy(gameObject);
-    }
+
+    
 }
-}
+
