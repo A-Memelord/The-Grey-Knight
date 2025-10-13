@@ -150,12 +150,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 7
         y: 50
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -172,12 +172,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_1
       rect:
         serializedVersion: 2
-        x: 52
+        x: 59
         y: 50
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -194,12 +194,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_2
       rect:
         serializedVersion: 2
-        x: 104
+        x: 111
         y: 50
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -216,12 +216,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_3
       rect:
         serializedVersion: 2
-        x: 156
+        x: 163
         y: 50
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -238,12 +238,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_4
       rect:
         serializedVersion: 2
-        x: 0
+        x: 7
         y: 0
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -260,12 +260,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_5
       rect:
         serializedVersion: 2
-        x: 52
+        x: 59
         y: 0
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -282,12 +282,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_6
       rect:
         serializedVersion: 2
-        x: 104
+        x: 111
         y: 0
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -304,12 +304,12 @@ TextureImporter:
       name: player_slashleft_v1_spritesheet_7
       rect:
         serializedVersion: 2
-        x: 156
+        x: 163
         y: 0
-        width: 52
+        width: 45
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
