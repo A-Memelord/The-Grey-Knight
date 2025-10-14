@@ -168,7 +168,7 @@ GameObject:
   - component: {fileID: 1716427527260331229}
   - component: {fileID: 5474982257483590547}
   m_Layer: 0
-  m_Name: RUBBLE V2
+  m_Name: rubble v2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

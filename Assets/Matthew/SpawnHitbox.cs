@@ -1,6 +1,8 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
+[ExecuteAlways]
+
 public class SpawnHitbox : MonoBehaviour
 {
     public float attackRadius = 1.5f;
@@ -9,7 +11,7 @@ public class SpawnHitbox : MonoBehaviour
     private PlayerController playerController;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+    void Awake()
     {
         playerController = GetComponent<PlayerController>();
     }
@@ -21,6 +23,7 @@ public class SpawnHitbox : MonoBehaviour
         if (hit)
         {
             Debug.Log(hit.collider.gameObject.name);
+            Destroy(hit.collider.gameObject, 0);
         }
     }
 
