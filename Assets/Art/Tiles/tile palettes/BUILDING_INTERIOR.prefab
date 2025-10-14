@@ -644,7 +644,7 @@ GameObject:
   - component: {fileID: 4250957964302474586}
   - component: {fileID: 3816881626459900628}
   m_Layer: 0
-  m_Name: BUILDING_INTERIOR
+  m_Name: building_interior
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
