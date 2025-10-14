@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,6 +9,8 @@ public class PlayerController : MonoBehaviour
     public bool isMoving;
 
     private Vector2 input;
+
+    [HideInInspector] public Vector2 direction;
 
     public LayerMask SolidObjects;
     public LayerMask Interactables;
@@ -19,6 +22,7 @@ public class PlayerController : MonoBehaviour
     private void Awake()
     {
         animator = GetComponent<Animator>();
+        direction = Vector2.down;
     }
 
     public void HandleUpdate()
@@ -38,6 +42,8 @@ public class PlayerController : MonoBehaviour
 
                 if (IsWalkable(targetPos))
                     StartCoroutine(Move(targetPos));
+
+                direction = input;
             }
         }
 
