@@ -6,6 +6,7 @@ public class MapTransition : MonoBehaviour
 {
     [SerializeField] Collider2D mapBoundry;
     [SerializeField] Direction direction;
+    [SerializeField] Transform roomTeleport;
     [SerializeField] Transform teleportTargetPosition;
 
     enum Direction { Up, Down, Left, Right, Teleport}
@@ -16,7 +17,7 @@ public class MapTransition : MonoBehaviour
         {
             UpdatePlayerPosition(collision.gameObject);
 
-
+            roomTeleport.GetComponent<MapTransition>().teleportTargetPosition = gameObject.transform.GetChild(0);
         }
     }
 
