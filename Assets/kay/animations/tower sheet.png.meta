@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -144,13 +144,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tower sheet 1_0
+      name: tower sheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -159,20 +159,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1e2ed659a2a16bd48845654e8ec0aa04
-      internalID: 573250975
+      spriteID: 0d3598635304e334ea79ff6435c27527
+      internalID: 2052980176
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_1
+      name: tower sheet_1
       rect:
         serializedVersion: 2
         x: 56
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -181,20 +181,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 69156acd2875b6b4cb453a26c19a8c8d
-      internalID: 666429068
+      spriteID: b82ea4c445339354eb38e03079d753e5
+      internalID: 1378342074
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_2
+      name: tower sheet_2
       rect:
         serializedVersion: 2
         x: 112
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -203,20 +203,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75ae39882a66c53419efdc2d4be1b456
-      internalID: -1908040224
+      spriteID: b8f61af96692afa4d89cdc6e4498dd2c
+      internalID: -492590404
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_3
+      name: tower sheet_3
       rect:
         serializedVersion: 2
         x: 168
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -225,20 +225,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fcbdfecd56e78204b8725e55575ae55b
-      internalID: -338984044
+      spriteID: f4de518b71d2022468ccb0f6e54dd17f
+      internalID: 804837956
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_4
+      name: tower sheet_4
       rect:
         serializedVersion: 2
         x: 224
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -247,20 +247,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6578e8f404d17a243a8c4f13c528e165
-      internalID: 2134392381
+      spriteID: 63c0b952dc37d1444a382d73afaf7a3b
+      internalID: 1780321069
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_5
+      name: tower sheet_5
       rect:
         serializedVersion: 2
         x: 280
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -269,20 +269,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 301f1bdcbca3448429700178156567b4
-      internalID: -337442745
+      spriteID: 6eab28b9f297ca34b88c4098ce84b43b
+      internalID: -539451870
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: tower sheet 1_6
+      name: tower sheet_6
       rect:
         serializedVersion: 2
         x: 336
-        y: 0
+        y: 1
         width: 56
-        height: 97
+        height: 96
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -291,8 +291,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 94e459da7b9ee254581b413f74615a65
-      internalID: 166211668
+      spriteID: 011ce3e745e885f46af5f37d08dfbe7b
+      internalID: -2025860502
       vertices: []
       indices: 
       edges: []
@@ -311,13 +311,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      tower sheet 1_0: 573250975
-      tower sheet 1_1: 666429068
-      tower sheet 1_2: -1908040224
-      tower sheet 1_3: -338984044
-      tower sheet 1_4: 2134392381
-      tower sheet 1_5: -337442745
-      tower sheet 1_6: 166211668
+      tower sheet_0: 2052980176
+      tower sheet_1: 1378342074
+      tower sheet_2: -492590404
+      tower sheet_3: 804837956
+      tower sheet_4: 1780321069
+      tower sheet_5: -539451870
+      tower sheet_6: -2025860502
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
