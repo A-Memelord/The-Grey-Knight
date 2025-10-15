@@ -10,11 +10,24 @@ public class EnemyAI2 : MonoBehaviour
     public float distanceBetween;
     public UnityEngine.Transform player;
     public float speed;
+    public LayerMask SolidObjects;
+    public LayerMask Interactables;
 
     // Wandering variables
     private Vector2 wanderDirection;
     private float wanderTimer;
     private float wanderInterval = 2f; // seconds
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            if (other.gameObject.TryGetComponent(out Stats stats))
+            {
+                stats.currentHealth -= 1;
+            }
+        }
+    }
 
     void Update()
     {
@@ -40,7 +53,8 @@ public class EnemyAI2 : MonoBehaviour
             if (input != Vector2.zero && !isMoving)
             {
                 var targetPos = transform.position + new Vector3(input.x, input.y, 0) * speed * Time.deltaTime;
-                StartCoroutine(Move(targetPos));
+                if (IsWalkable(targetPos))
+                    StartCoroutine(Move(targetPos));
             }
         }
         else
@@ -59,10 +73,12 @@ public class EnemyAI2 : MonoBehaviour
             if (wanderDirection != Vector2.zero && !isMoving)
             {
                 var targetPos = transform.position + new Vector3(wanderDirection.x, wanderDirection.y, 0) * speed * Time.deltaTime;
-                StartCoroutine(Move(targetPos));
+                if (IsWalkable(targetPos))
+                    StartCoroutine(Move(targetPos));
             }
         }
     }
+
 
     IEnumerator Move(Vector3 targetPos)
     {
@@ -74,6 +90,15 @@ public class EnemyAI2 : MonoBehaviour
             transform.position = targetPos;
         }
         isMoving = false;
+    }
+    private bool IsWalkable(Vector3 targetPos)
+    {
+        if (Physics2D.OverlapCircle(targetPos, 0.2f, SolidObjects | Interactables) != null)
+        {
+            return false;
+        }
+
+        return true;
     }
 }
 
