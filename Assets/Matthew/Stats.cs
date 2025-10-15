@@ -19,15 +19,26 @@ public class Stats : MonoBehaviour
         currentHealth = maxHealth;
 
     }
-
-    private void Update()
+    private void OnCollisionEnter2D(Collision2D other)
     {
-        if (currentHealth <= 0)
+        if (other.gameObject.CompareTag("Player"))
         {
+            if (other.gameObject.TryGetComponent(out Stats stats))
+            {
+                stats.currentHealth -= 1;
+            }
             Destroy(gameObject);
         }
+    }
+    private void Update()
+    {
+        if (currentHealth <= 0 && gameObject.CompareTag("Player"))
+        {
 
-        if(currentHealth > maxHealth)
+        }
+        
+
+        if (currentHealth > maxHealth)
         {
             currentHealth = maxHealth;
         }

@@ -18,6 +18,17 @@ public class EnemyAI2 : MonoBehaviour
     private float wanderTimer;
     private float wanderInterval = 2f; // seconds
 
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            if (other.gameObject.TryGetComponent(out Stats stats))
+            {
+                stats.currentHealth -= 1;
+            }
+        }
+    }
+
     void Update()
     {
         if (player != null && Vector2.Distance(transform.position, player.position) <= distanceBetween)
@@ -67,6 +78,7 @@ public class EnemyAI2 : MonoBehaviour
             }
         }
     }
+
 
     IEnumerator Move(Vector3 targetPos)
     {
