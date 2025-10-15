@@ -23,7 +23,12 @@ public class SpawnHitbox : MonoBehaviour
         if (hit)
         {
             Debug.Log(hit.collider.gameObject.name);
-            Destroy(hit.collider.gameObject, 0);
+            
+            if (hit.collider.TryGetComponent(out Stats targetstats) && TryGetComponent(out Stats playerStats))
+            {
+                float calculatedDamage = playerStats.Damage - targetstats.defense;
+                targetstats.currentHealth -= calculatedDamage;
+            }
         }
     }
 

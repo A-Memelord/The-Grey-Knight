@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/kay/titleScreen.unity
     guid: a5a0f18b7266280488ae3b16b1105431
   - enabled: 1
+    path: Assets/Dylan/big.unity
+    guid: e9ba1e824c6ca164a964816b0cc24f1a
+  - enabled: 0
     path: Assets/kay/settings.unity
     guid: 9c5c1c6f67ff2c14dbd7e90fc9112ab8
   - enabled: 0

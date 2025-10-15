@@ -53,7 +53,7 @@ public class RangedEnemyAI : MonoBehaviour
         {
             // Use Vector2.Distance and correct references to positions
             if (Vector2.Distance(target.position, transform.position) >= distanceToStop)
-            rb.linearVelocity = transform.up * speed;
+            rb.linearVelocity = transform.GetChild(0).up * speed;
             else
             rb.linearVelocity = Vector2.zero;
         }
@@ -65,7 +65,7 @@ public class RangedEnemyAI : MonoBehaviour
         Vector2 targetDirection = (Vector2)(target.position - transform.position);
         float angle = Mathf.Atan2(targetDirection.y, targetDirection.x) * Mathf.Rad2Deg - 90f;
         Quaternion q = Quaternion.Euler(new Vector3(0, 0, angle));
-        transform.localRotation = Quaternion.Slerp(transform.localRotation, q, rotateSpeed);
+        transform.GetChild(0).localRotation = Quaternion.Slerp(transform.GetChild(0).localRotation, q, rotateSpeed);
     }
     private void GetTarget()
 {       if(GameObject.FindGameObjectWithTag("Player"))
