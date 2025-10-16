@@ -2,13 +2,16 @@ using UnityEngine;
 
 public class Stats : MonoBehaviour
 {
-    [Tooltip("this entity's max health.")] [Range(1, 100)] public float maxHealth;
+    public Animator anim;
+
+  
+    [Tooltip("this entity's max health.")][Range(1, 100)] public float maxHealth;
     [HideInInspector] public float currentHealth;
 
     [Header("Attack")]
 
-    [Tooltip("this entity's damage output.")] [Range(1, 100)] public float Damage;
-    [Tooltip("this entity's defense. defens is subtractive from damage.")] [Range(1, 50)] public float defense;
+    [Tooltip("this entity's damage output.")][Range(1, 100)] public float Damage;
+    [Tooltip("this entity's defense. defens is subtractive from damage.")][Range(1, 50)] public float defense;
 
     [Header("Death")]
 
@@ -21,27 +24,39 @@ public class Stats : MonoBehaviour
     }
     private void OnCollisionEnter2D(Collision2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player") && other.gameObject.TryGetComponent(out Stats stats))
         {
-            if (other.gameObject.TryGetComponent(out Stats stats))
-            {
-                stats.currentHealth -= 1;
-            }
-            Destroy(gameObject);
+            stats.currentHealth -= 1;
         }
     }
+
+    private void Death()
+    {
+        Time.timeScale = 0f;
+    }
+
+
     private void Update()
     {
         if (currentHealth <= 0 && gameObject.CompareTag("Player"))
         {
-
+            anim.SetTrigger("isDead");
+            Invoke("Death",.3f);
         }
-        
+
+        else
+        {
+            if (currentHealth <= 0 && gameObject.CompareTag("Enemy"))
+            {
+                Destroy(gameObject);
+            }
+        }
+
 
         if (currentHealth > maxHealth)
         {
             currentHealth = maxHealth;
         }
-            
+
     }
 }
