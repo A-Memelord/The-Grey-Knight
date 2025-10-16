@@ -10,7 +10,6 @@ public class SpawnHitbox : MonoBehaviour
 
     private PlayerController playerController;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Awake()
     {
         playerController = GetComponent<PlayerController>();
