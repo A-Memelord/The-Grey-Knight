@@ -1,163 +1,163 @@
 fileFormatVersion: 2
-guid: cc4e77ae8cfadaf40b342122835241f8
+guid: cc31ec53a35da6e44b7235676466b910
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8400478585132643030
-    second: contols_0
+      213: 3229568139436919559
+    second: contols 1_0
   - first:
-      213: 1699253549184596705
-    second: contols_1
+      213: -8109784832898124013
+    second: contols 1_1
   - first:
-      213: 8923923847333075161
-    second: contols_2
+      213: -5114325932523773465
+    second: contols 1_2
   - first:
-      213: 64121242519639101
-    second: contols_3
+      213: -7017285811223223116
+    second: contols 1_3
   - first:
-      213: 4166909689612231576
-    second: contols_4
+      213: -276928945394223837
+    second: contols 1_4
   - first:
-      213: 4049933772035778490
-    second: contols_5
+      213: -3717652308634415300
+    second: contols 1_5
   - first:
-      213: 4834934600702895358
-    second: contols_6
+      213: -6898192175409788388
+    second: contols 1_6
   - first:
-      213: 5204316525162083599
-    second: contols_7
+      213: 8405992079844127011
+    second: contols 1_7
   - first:
-      213: 1276147385762598135
-    second: contols_8
+      213: -5888403927955931629
+    second: contols 1_8
   - first:
-      213: -364998854969903399
-    second: contols_9
+      213: 4345166119886645121
+    second: contols 1_9
   - first:
-      213: -9114692362278906768
-    second: contols_10
+      213: 4035846533864511030
+    second: contols 1_10
   - first:
-      213: -7047133566841739522
-    second: contols_11
+      213: 554940095885836494
+    second: contols 1_11
   - first:
-      213: -1110691631627428388
-    second: contols_12
+      213: 7464422981413042388
+    second: contols 1_12
   - first:
-      213: -2764683815401451648
-    second: contols_13
+      213: -973846919243358446
+    second: contols 1_13
   - first:
-      213: -779098859354986119
-    second: contols_14
+      213: 8737573120546109255
+    second: contols 1_14
   - first:
-      213: 3613665839854402133
-    second: contols_15
+      213: 8342950941941556244
+    second: contols 1_15
   - first:
-      213: -6094998551758457634
-    second: contols_16
+      213: -1631547229323834219
+    second: contols 1_16
   - first:
-      213: 8136810334838137339
-    second: contols_17
+      213: 4055651541144077486
+    second: contols 1_17
   - first:
-      213: -5678973703224407890
-    second: contols_18
+      213: -5079972287711942515
+    second: contols 1_18
   - first:
-      213: 8079142319247745298
-    second: contols_19
+      213: 6849645711530902868
+    second: contols 1_19
   - first:
-      213: 8426661487629124571
-    second: contols_20
+      213: -8736917706320619056
+    second: contols 1_20
   - first:
-      213: 6307500317582744339
-    second: contols_21
+      213: -381957927330103304
+    second: contols 1_21
   - first:
-      213: 6304988222472910772
-    second: contols_22
+      213: 7956306802054166316
+    second: contols 1_22
   - first:
-      213: -1275230141045519626
-    second: contols_23
+      213: 6690933185007245573
+    second: contols 1_23
   - first:
-      213: -1601414067362844404
-    second: contols_24
+      213: 7067895425625949569
+    second: contols 1_24
   - first:
-      213: 8092196003853390629
-    second: contols_25
+      213: -6451064686757160237
+    second: contols 1_25
   - first:
-      213: -139691310506434467
-    second: contols_26
+      213: -8686769162726171560
+    second: contols 1_26
   - first:
-      213: -1507786938950206991
-    second: contols_27
+      213: 4971313982110972410
+    second: contols 1_27
   - first:
-      213: 7868664444574601980
-    second: contols_28
+      213: 4854542214843760695
+    second: contols 1_28
   - first:
-      213: 3139805249613905308
-    second: contols_29
+      213: 2294593412442144656
+    second: contols 1_29
   - first:
-      213: 8068587587759913510
-    second: contols_30
+      213: 1418463859768497324
+    second: contols 1_30
   - first:
-      213: 1490507005653978878
-    second: contols_31
+      213: 7332171558796783479
+    second: contols 1_31
   - first:
-      213: 2724212483439356732
-    second: contols_32
+      213: -7303152630380561512
+    second: contols 1_32
   - first:
-      213: -7472533111322885283
-    second: contols_33
+      213: -1423430238014708753
+    second: contols 1_33
   - first:
-      213: -2254300595692993455
-    second: contols_34
+      213: -8870855691472796872
+    second: contols 1_34
   - first:
-      213: 9199115328004638164
-    second: contols_35
+      213: 3463531257242817904
+    second: contols 1_35
   - first:
-      213: 2230714272758847929
-    second: contols_36
+      213: 3199930441166419455
+    second: contols 1_36
   - first:
-      213: 5003164416629588849
-    second: contols_37
+      213: 4753146166664302731
+    second: contols 1_37
   - first:
-      213: 1055245627717802184
-    second: contols_38
+      213: 8407493634497990150
+    second: contols 1_38
   - first:
-      213: 3167828632068898948
-    second: contols_39
+      213: -2923105548165827957
+    second: contols 1_39
   - first:
-      213: 7691169851468825446
-    second: contols_40
+      213: -4792804672462389288
+    second: contols 1_40
   - first:
-      213: -4856788682025072944
-    second: contols_41
+      213: -2592065990658178550
+    second: contols 1_41
   - first:
-      213: 5284990368504115050
-    second: contols_42
+      213: -2238555958054999200
+    second: contols 1_42
   - first:
-      213: -2154059360172932948
-    second: contols_43
+      213: 1525139518448758366
+    second: contols 1_43
   - first:
-      213: 4925011110561194836
-    second: contols_44
+      213: 7671787766606982184
+    second: contols 1_44
   - first:
-      213: 726670342721214666
-    second: contols_45
+      213: 1674850287628037105
+    second: contols 1_45
   - first:
-      213: 8156491317286662188
-    second: contols_46
+      213: 3398149479506459580
+    second: contols 1_46
   - first:
-      213: -1518135782773184768
-    second: contols_47
+      213: -1843615090139822844
+    second: contols 1_47
   - first:
-      213: 1675379264138032258
-    second: contols_48
+      213: -5164431404795193441
+    second: contols 1_48
   - first:
-      213: 8662703313926191832
-    second: contols_49
+      213: -3276630565909738613
+    second: contols 1_49
   - first:
-      213: -7499530788700197414
-    second: contols_50
+      213: 2602607640517540396
+    second: contols 1_50
   - first:
-      213: 4720499369738879666
-    second: contols_51
+      213: -7000710416411525389
+    second: contols 1_51
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -199,7 +199,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -279,1145 +279,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: contols_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 31
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a2d84e50c318b6b80800000000000000
-      internalID: -8400478585132643030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_1
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 23
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1ea38769916f49710800000000000000
-      internalID: 1699253549184596705
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_2
-      rect:
-        serializedVersion: 2
-        x: 8
-        y: 23
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d8dcea457528db70800000000000000
-      internalID: 8923923847333075161
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_3
-      rect:
-        serializedVersion: 2
-        x: 11
-        y: 31
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3490fa2eedc3e000800000000000000
-      internalID: 64121242519639101
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_4
-      rect:
-        serializedVersion: 2
-        x: 15
-        y: 23
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89368741946d3d930800000000000000
-      internalID: 4166909689612231576
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_5
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 31
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab7ec06ee41443830800000000000000
-      internalID: 4049933772035778490
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_6
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef4242b1763291340800000000000000
-      internalID: 4834934600702895358
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_7
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 7
-        width: 11
-        height: 25
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f053bf45e42793840800000000000000
-      internalID: 5204316525162083599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_8
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 31
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7fc4c693949c5b110800000000000000
-      internalID: 1276147385762598135
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_9
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 31
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9d6381aa9734feaf0800000000000000
-      internalID: -364998854969903399
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_10
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 23
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0745665969b128180800000000000000
-      internalID: -9114692362278906768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_11
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ef6aaa7bb5d833e90800000000000000
-      internalID: -7047133566841739522
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_12
-      rect:
-        serializedVersion: 2
-        x: 45
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cdd19d188d70690f0800000000000000
-      internalID: -1110691631627428388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_13
-      rect:
-        serializedVersion: 2
-        x: 51
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 08f89b2c7bed1a9d0800000000000000
-      internalID: -2764683815401451648
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_14
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 23
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 979eb3b17b51035f0800000000000000
-      internalID: -779098859354986119
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_15
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 23
-        width: 10
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55a3c717fe1562230800000000000000
-      internalID: 3613665839854402133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_16
-      rect:
-        serializedVersion: 2
-        x: 77
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ed4baef1c173a6ba0800000000000000
-      internalID: -6094998551758457634
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_17
-      rect:
-        serializedVersion: 2
-        x: 83
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf121cc83e1cbe070800000000000000
-      internalID: 8136810334838137339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_18
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 23
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea84682618b3031b0800000000000000
-      internalID: -5678973703224407890
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_19
-      rect:
-        serializedVersion: 2
-        x: 95
-        y: 23
-        width: 5
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 211669c5221ee1070800000000000000
-      internalID: 8079142319247745298
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_20
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 15
-        width: 5
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bd349940af381f470800000000000000
-      internalID: 8426661487629124571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_21
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 7
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 31bde2ace1eb88750800000000000000
-      internalID: 6307500317582744339
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_22
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 15
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b7f4811261df7750800000000000000
-      internalID: 6304988222472910772
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_23
-      rect:
-        serializedVersion: 2
-        x: 7
-        y: 7
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6fa4c1471f87d4ee0800000000000000
-      internalID: -1275230141045519626
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_24
-      rect:
-        serializedVersion: 2
-        x: 10
-        y: 15
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c013680f362a6c9e0800000000000000
-      internalID: -1601414067362844404
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_25
-      rect:
-        serializedVersion: 2
-        x: 14
-        y: 4
-        width: 8
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 523548624614d4070800000000000000
-      internalID: 8092196003853390629
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_26
-      rect:
-        serializedVersion: 2
-        x: 18
-        y: 15
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d502e034e77bf0ef0800000000000000
-      internalID: -139691310506434467
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_27
-      rect:
-        serializedVersion: 2
-        x: 31
-        y: 7
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1f936e284c3431be0800000000000000
-      internalID: -1507786938950206991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_28
-      rect:
-        serializedVersion: 2
-        x: 35
-        y: 15
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf29d935f9c133d60800000000000000
-      internalID: 7868664444574601980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_29
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 7
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c9db4273d34d29b20800000000000000
-      internalID: 3139805249613905308
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_30
-      rect:
-        serializedVersion: 2
-        x: 42
-        y: 15
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62a3e8f69a169ff60800000000000000
-      internalID: 8068587587759913510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_31
-      rect:
-        serializedVersion: 2
-        x: 43
-        y: 7
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: efe8c3f79385fa410800000000000000
-      internalID: 1490507005653978878
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_32
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 7
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3b6618f1d85ec520800000000000000
-      internalID: 2724212483439356732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_33
-      rect:
-        serializedVersion: 2
-        x: 50
-        y: 15
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d534147f9ba3c4890800000000000000
-      internalID: -7472533111322885283
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_34
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 7
-        width: 9
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 15484c05d8d17b0e0800000000000000
-      internalID: -2254300595692993455
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_35
-      rect:
-        serializedVersion: 2
-        x: 58
-        y: 15
-        width: 8
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d5419dd6a2d9af70800000000000000
-      internalID: 9199115328004638164
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_36
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 7
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9b95f2fefc615fe10800000000000000
-      internalID: 2230714272758847929
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_37
-      rect:
-        serializedVersion: 2
-        x: 65
-        y: 15
-        width: 6
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 173c41e678fce6540800000000000000
-      internalID: 5003164416629588849
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_38
-      rect:
-        serializedVersion: 2
-        x: 68
-        y: 7
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8c857e6be4cf4ae00800000000000000
-      internalID: 1055245627717802184
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_39
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 15
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 48047c36b5366fb20800000000000000
-      internalID: 3167828632068898948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_40
-      rect:
-        serializedVersion: 2
-        x: 74
-        y: 7
-        width: 7
-        height: 9
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6634ef7fa368cba60800000000000000
-      internalID: 7691169851468825446
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_41
+      name: contols 1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 5
-        height: 8
+        width: 100
+        height: 39
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 0d602c21d68399cb0800000000000000
-      internalID: -4856788682025072944
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_42
-      rect:
-        serializedVersion: 2
-        x: 4
-        y: 0
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a6f6c043dbe085940800000000000000
-      internalID: 5284990368504115050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_43
-      rect:
-        serializedVersion: 2
-        x: 9
-        y: 0
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ca089c3bc6e3b12e0800000000000000
-      internalID: -2154059360172932948
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_44
-      rect:
-        serializedVersion: 2
-        x: 20
-        y: 0
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4532adfd287295440800000000000000
-      internalID: 4925011110561194836
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_45
-      rect:
-        serializedVersion: 2
-        x: 26
-        y: 0
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac895be93d6a51a00800000000000000
-      internalID: 726670342721214666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_46
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 0
-        width: 7
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c20fd6c53ada13170800000000000000
-      internalID: 8156491317286662188
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_47
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 0
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 007aefa8c8f7eeae0800000000000000
-      internalID: -1518135782773184768
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_48
-      rect:
-        serializedVersion: 2
-        x: 44
-        y: 0
-        width: 6
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 284b00f6094204710800000000000000
-      internalID: 1675379264138032258
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_49
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 0
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8da7b2d54ca183870800000000000000
-      internalID: 8662703313926191832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_50
-      rect:
-        serializedVersion: 2
-        x: 62
-        y: 0
-        width: 11
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: add6b6d5b705ce790800000000000000
-      internalID: -7499530788700197414
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: contols_51
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 0
-        width: 9
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b2cdbf9a25928140800000000000000
-      internalID: 4720499369738879666
+      spriteID: 76dea92aa15b5b2459275f140f581cb2
+      internalID: -163327192
       vertices: []
       indices: 
       edges: []
@@ -1426,7 +304,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 4e2392239cf9caa4a9e33928edb70b7c
     internalID: 0
     vertices: []
     indices: 
@@ -1436,58 +314,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      contols_0: -8400478585132643030
-      contols_1: 1699253549184596705
-      contols_10: -9114692362278906768
-      contols_11: -7047133566841739522
-      contols_12: -1110691631627428388
-      contols_13: -2764683815401451648
-      contols_14: -779098859354986119
-      contols_15: 3613665839854402133
-      contols_16: -6094998551758457634
-      contols_17: 8136810334838137339
-      contols_18: -5678973703224407890
-      contols_19: 8079142319247745298
-      contols_2: 8923923847333075161
-      contols_20: 8426661487629124571
-      contols_21: 6307500317582744339
-      contols_22: 6304988222472910772
-      contols_23: -1275230141045519626
-      contols_24: -1601414067362844404
-      contols_25: 8092196003853390629
-      contols_26: -139691310506434467
-      contols_27: -1507786938950206991
-      contols_28: 7868664444574601980
-      contols_29: 3139805249613905308
-      contols_3: 64121242519639101
-      contols_30: 8068587587759913510
-      contols_31: 1490507005653978878
-      contols_32: 2724212483439356732
-      contols_33: -7472533111322885283
-      contols_34: -2254300595692993455
-      contols_35: 9199115328004638164
-      contols_36: 2230714272758847929
-      contols_37: 5003164416629588849
-      contols_38: 1055245627717802184
-      contols_39: 3167828632068898948
-      contols_4: 4166909689612231576
-      contols_40: 7691169851468825446
-      contols_41: -4856788682025072944
-      contols_42: 5284990368504115050
-      contols_43: -2154059360172932948
-      contols_44: 4925011110561194836
-      contols_45: 726670342721214666
-      contols_46: 8156491317286662188
-      contols_47: -1518135782773184768
-      contols_48: 1675379264138032258
-      contols_49: 8662703313926191832
-      contols_5: 4049933772035778490
-      contols_50: -7499530788700197414
-      contols_51: 4720499369738879666
-      contols_6: 4834934600702895358
-      contols_7: 5204316525162083599
-      contols_8: 1276147385762598135
-      contols_9: -364998854969903399
+      contols 1_0: -163327192
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
