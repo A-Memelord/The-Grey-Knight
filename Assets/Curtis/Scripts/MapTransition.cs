@@ -16,6 +16,7 @@ public class MapTransition : MonoBehaviour
         {
             UpdatePlayerPosition(collision.gameObject);
 
+            // set the teleporter in the room the player is teleported to to the building they entered
             roomTeleport.GetComponent<MapTransition>().teleportTargetPosition = gameObject.transform.GetChild(0);
         }
     }
